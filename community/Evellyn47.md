@@ -20,7 +20,8 @@ Agradeço pela oportunidade desde já, pela oportunidade.
 
   [![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=GitHub&logoColor=000&)](https://github.com/Evellyn47)
   [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/evellyn-cabral-2263352ab/)
-- [Instagram](https://www.instagram.com/evy_cabral_/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evy_cabral_)
+
 
 
 
