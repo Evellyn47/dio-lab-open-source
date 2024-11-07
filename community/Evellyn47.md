@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&section=header&text=&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-# Seja bem-vindo ao meu perfil!
+ # Seja bem-vindo ao meu perfil!
 
 Me chamo **Evellyn Cabral Soares**, tenho 20 anos e faço parte de um grupo de estudos. Na nossa equipe, é essencial manter a disciplina, cumprindo os horários estabelecidos.
 
