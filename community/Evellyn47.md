@@ -23,8 +23,8 @@ Agradeço pela oportunidade desde já, pela oportunidade.
   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evy_cabral_)
 
   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Evellyn47&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Evellyn47&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Evellyn47&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
 
